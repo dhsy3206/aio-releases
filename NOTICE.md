@@ -17,7 +17,7 @@
 
 ## 제3자 오픈소스 구성요소
 
-설치 파일에는 FFmpeg(GPL-3.0 이상) · Ghostscript(AGPL-3.0 이상) · Qt·PySide6(LGPL-3.0) · lxml 안의 GNU libiconv(LGPL-2.1 이상) 등이 함께 담겨 있습니다. 각 구성요소는 그 라이선스가 허락하는 대로 복제·수정·재배포·역분석할 수 있고, 이 안내는 그 권리를 제한하지 않습니다.
+설치 파일에는 FFmpeg(GPL-3.0 이상) · Ghostscript(AGPL-3.0 이상) · Qt·PySide6(LGPL-3.0) · lxml 안의 GNU libiconv(LGPL-2.1 이상) · Rust 오픈소스 크레이트(MIT · Apache-2.0 · BSD 등) 등이 함께 담겨 있습니다. 각 구성요소는 그 라이선스가 허락하는 대로 복제·수정·재배포·역분석할 수 있고, 이 안내는 그 권리를 제한하지 않습니다.
 
 - 라이선스 전문: 설치 폴더의 `_internal\licenses\`
 - FFmpeg · Ghostscript 의 대응 소스: 같은 릴리스의 `AIO_FFmpeg_corresponding_source_….zip` · `AIO_Ghostscript_corresponding_source_….zip` (신청이나 추가 비용 없이 받을 수 있습니다)
